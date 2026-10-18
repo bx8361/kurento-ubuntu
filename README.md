@@ -10,13 +10,13 @@ Most of the modifications involve replacing 'gstreamer-1.0' with the older 'gstr
 |--|--|--|
 |gstreamer|[kurento](https://github.com/Kurento/gstreamer)|No|
 |openssl-1.0.2u.tar.gz|[openssl](https://www.openssl.org/source/old/1.0.2/openssl-1.0.2u.tar.gz)|No|
-|libnice|[kurento](https://github.com/Kurento/libnice)|[Yes](https://github.com/BradXiao/kurento-ubuntu/commit/9cb5e5ab7a3c500f936b1ed1904f6fc8c2ca90c1)|
+|libnice|[kurento](https://github.com/Kurento/libnice)|[Yes](https://github.com/bx8361/kurento-ubuntu/commit/9cb5e5ab7a3c500f936b1ed1904f6fc8c2ca90c1)|
 |libsrtp|[kurento](https://github.com/Kurento/libsrtp)|No|
 |openh264|[cisco](https://github.com/cisco/openh264)|No|
 |gst-plugins-base|[kurento](https://github.com/Kurento/gst-plugins-base)|No|
-|gst-plugins-good|[kurento](https://github.com/Kurento/gst-plugins-good)|[Yes](https://github.com/BradXiao/kurento-ubuntu/commit/e19d11e75ea4df9628546f04e7bc639fd3dd8ddf)|
+|gst-plugins-good|[kurento](https://github.com/Kurento/gst-plugins-good)|[Yes](https://github.com/bx8361/kurento-ubuntu/commit/e19d11e75ea4df9628546f04e7bc639fd3dd8ddf)|
 |gst-plugins-bad|[kurento](https://github.com/Kurento/gst-plugins-bad)|No|
-|kurento server|[kurento](https://github.com/Kurento/kurento)|[Yes](https://github.com/BradXiao/kurento-ubuntu/commit/0cf29111c75f455c02b21366a0c7634117443161)|
+|kurento server|[kurento](https://github.com/Kurento/kurento)|[Yes](https://github.com/bx8361/kurento-ubuntu/commit/0cf29111c75f455c02b21366a0c7634117443161)|
 
 
 ## Pre-built binaries (for normal users)
